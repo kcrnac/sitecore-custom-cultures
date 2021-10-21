@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation.Sitecore.Extensions", "Sitecore Custom Languages\Foundation.Sitecore.Extensions.csproj", "{9E7E07CB-8E31-46AE-84A2-979C924401C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation.Sitecore.Extensions", "src\Extensions\Foundation.Sitecore.Extensions.csproj", "{9E7E07CB-8E31-46AE-84A2-979C924401C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
